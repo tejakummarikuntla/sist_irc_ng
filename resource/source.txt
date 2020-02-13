@@ -1,0 +1,5 @@
+Text Analytics with Python: A Practitioner's Guide to Natural Language Processing
+https://learning.oreilly.com/library/view/text-analytics-with/9781484243541/
+
+Good overall visualizations:
+https://github.com/jamiekimyu/sentiNote
